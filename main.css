@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	background: #e6e6ff;
+	font-family: Californian FB;
+}
+h1 {font-size: 78;
+	background: #ffb3d9;
+color:#black;}
+
+h4 {background: #e6ffff;
+	margin: 0;
+	color:black;
+font-size: 24;}
+h3 {font-size: 38;
+	color:#4d2800;}
+h5 {font-size: 20}
+nav {font-size: 20;
+color:#4d2800;}
+footer {
+	font-size: 15;
+color: #4d2800;}
+p {font-size: 20;}
+img {max-width: 480px
+}
+@media (max-width: 480px) {h1 {font-size: 28px;}.col{width: 100%;}
